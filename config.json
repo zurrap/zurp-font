@@ -1,6 +1,6 @@
 {
   "$schema": "./source/schema.json",
-  "family_name": "Maple Mono",
+  "family_name": "Zurp Mono",
   "use_hinted": true,
   "pool_size": 4,
   "ligature": true,
